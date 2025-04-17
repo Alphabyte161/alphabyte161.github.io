@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-t-r-e-p",
           title: "T.R.E.P.",
           description: "Tornado Risk Evaluation Parameter",
@@ -44,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-website-launched-t-r-e-p-will-be-added-as-outputs-are-produced",
+        },{id: "news-website-launched-t-r-e-p-will-be-added-as-outputs-are-produced",
           title: 'Website Launched! T.R.E.P. will be added as outputs are produced.',
           description: "",
           section: "News",},{
