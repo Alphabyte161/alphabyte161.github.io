@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "lorem ipsum",
+        },{id: "nav-t-r-e-p",
+          title: "T.R.E.P.",
+          description: "Tornado Risk Evaluation Parameter",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching";
+            window.location.href = "/trep/";
           },
         },{id: "nav-t-r-e-p",
           title: "T.R.E.P.",
