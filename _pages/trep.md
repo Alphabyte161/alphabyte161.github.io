@@ -5,7 +5,7 @@ title: T.R.E.P.
 description: Tornado Risk Evaluation Parameter
 nav: true
 nav_order: 6
-image: /assets/img/trepout.png
+image: /assets/img/21z04-17-2025hr04.png
 ---
 
 Below is the latest output from T.R.E.P.
