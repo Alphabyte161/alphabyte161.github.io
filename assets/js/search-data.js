@@ -49,8 +49,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-website-launched-t-r-e-p-will-be-added-as-outputs-are-produced",
+          title: 'Website Launched! T.R.E.P. will be added as outputs are produced.',
           description: "",
           section: "News",},{
         id: 'social-email',
