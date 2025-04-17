@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/trep/";
           },
-        },{id: "nav-t-r-e-p",
-          title: "T.R.E.P.",
-          description: "Tornado Risk Evaluation Parameter",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/trep/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
