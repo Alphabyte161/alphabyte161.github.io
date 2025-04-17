@@ -501,7 +501,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%67%68%63%6F%68%65%6E%33%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/alphabyte161", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -509,6 +516,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/1010907", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/gracecohenwx", "_blank");
         },
       },{
         id: 'social-rss',
@@ -523,6 +537,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/gracecweather", "_blank");
         },
       },{
         id: 'social-custom_social',
