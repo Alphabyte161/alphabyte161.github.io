@@ -30,19 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/trep/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-website-launched-t-r-e-p-will-be-added-as-outputs-are-produced",
+        },{id: "news-website-launched-t-r-e-p-will-be-added-as-outputs-are-produced",
           title: 'Website Launched! T.R.E.P. will be added as outputs are produced.',
           description: "",
           section: "News",},{
