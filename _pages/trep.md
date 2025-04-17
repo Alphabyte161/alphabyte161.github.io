@@ -14,6 +14,6 @@ Development is constantly ongoing and runs are not created for every hour, so da
 
 <div class="row">
   <div class="col-xl">
-    {% include figure.liquid path="assets/img/trepout.png" title="T.R.E.P. output" class="img-fluid" %}
+    {% include figure.liquid path="assets/img/21z04-17-2025hr04.png" title="T.R.E.P. output" class="img-fluid" %}
   </div>
 
