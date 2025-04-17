@@ -207,8 +207,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Cohen]
+  first_name: [Grace, H.]
 
   style: apa
   locale: en
