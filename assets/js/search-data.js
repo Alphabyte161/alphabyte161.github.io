@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/trep/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "news-website-launched-t-r-e-p-will-be-added-as-outputs-are-produced",
           title: 'Website Launched! T.R.E.P. will be added as outputs are produced.',
           description: "",
