@@ -13,7 +13,7 @@ Below is the latest output from T.R.E.P.
 Development is constantly ongoing and runs are not created for every hour, so data may be inaccurate or outdated.
 
 <div class="row">
-  <div class="col-xl-1">
+  <div class="col-xl">
     {% include figure.liquid path="assets/img/trepout.png" title="T.R.E.P. output" class="img-fluid" %}
   </div>
 
