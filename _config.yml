@@ -150,6 +150,7 @@ exclude:
   - _pages/blog.md
   - _posts/
   - _projects/?_project.md
+  - _pages/publications
 
 keep_files:
   - CNAME
