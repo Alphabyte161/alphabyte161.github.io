@@ -1,7 +1,8 @@
 github_users:
   - alphabyte161
 
-repo_description_lines_max: 1
+repo_description_lines_max: 2
 
 github_repos:
   - alphabyte161/T.R.E.S.
+  - alphabyte161/alphabyte161.github.io
