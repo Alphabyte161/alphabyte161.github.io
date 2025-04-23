@@ -1,8 +1,9 @@
 github_users:
   - alphabyte161
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
   - alphabyte161/T.R.E.S.
   - alphabyte161/alphabyte161.github.io
+  - alphabyte161/Meteorology-Apps
