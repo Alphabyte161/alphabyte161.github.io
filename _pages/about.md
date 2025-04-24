@@ -27,4 +27,6 @@ Hello, I am Grace Cohen, a student at UC Davis pursuing a double major in Atmosp
 
 Outside of the lab you will usually find me storm chasing, gaming, or doing photography. :P
 
+Please note that many of my projects are not public for a variety of reasons. Some are by my own choice, some due to not having permission to share. I can assure you that while it may seem like nothing is being made, I am more than likely working on some form of private project. Please contact me using one of the methods below (discord or email preferred!) if you have questions. I can't guarantee a quick response all the time, but I will get back to you as soon as I am able.
+
 
