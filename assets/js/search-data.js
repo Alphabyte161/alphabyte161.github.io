@@ -33,6 +33,9 @@ ninja.data = [{
         },{id: "news-website-launched-t-r-e-p-will-be-added-as-outputs-are-produced",
           title: 'Website Launched! T.R.E.P. will be added as outputs are produced.',
           description: "",
+          section: "News",},{id: "news-i-am-officially-a-member-of-the-team-working-on-the-omega-project-with-a-handful-of-other-very-talented-and-intelligent-scientists-extremely-grateful-to-be-part-of-this-team",
+          title: 'I am officially a member of the team working on the OMEGA project...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
