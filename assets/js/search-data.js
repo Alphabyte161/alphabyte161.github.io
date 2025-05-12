@@ -37,6 +37,13 @@ ninja.data = [{
           title: 'I am officially a member of the team working on the OMEGA project...',
           description: "",
           section: "News",},{
+        id: 'social-discord',
+        title: 'Discord',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://discord.com/users/1077981675528659056", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
